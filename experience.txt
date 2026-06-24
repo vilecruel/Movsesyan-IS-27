@@ -1,0 +1,51 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMEw4ygstFiwIIEz3JBkLAB",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/vilecruel/Movsesyan-IS-27/blob/my-new-branch/experience.txt\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "TobP3hIRMiJf"
+      },
+      "outputs": [],
+      "source": [
+        "Стаж работы сотрудников в ООО \"Регуляр\"\n",
+        "\n",
+        "Иванов И.И.\t26 лет 8 месяцев\n",
+        "Петров П.П\t14 лет 2 месяца\n",
+        "Базаров Г.К.\t18 лет 5 месяцев\n",
+        "Лабутин С.Д.\t1 год 11 месяцев\n",
+        "Лазухина Т.П.\t2 года 6 месяцев\n",
+        "Паланова З.К.\t15 лет 1 месяц\n",
+        "Таничева У.С.\t15 лет 10 месяцев\n",
+        "Каверин Т.Д.\t21 год 4 месяца\n",
+        "Зудина К.Ю.\t3 года"
+      ]
+    }
+  ]
+}
